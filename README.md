@@ -1,5 +1,5 @@
 
-# 🧳 Tourism Management System (TMS) in PHP
+# 🧳 Tourism Management System (TMS) 
 
 A full-featured Tourism Management System built using **PHP** and **MySQL**. It enables users to browse and book tours, while admins can manage packages, users, bookings, and more through a dedicated admin dashboard.
 
@@ -41,6 +41,26 @@ A full-featured Tourism Management System built using **PHP** and **MySQL**. It 
 - Send inquiries via contact form
 
 ---
+## 📸 App Preview - Tourism Management System (TMS)
+
+### Admin Dashboard
+![Screenshot 2025-07-08 140247](https://github.com/user-attachments/assets/5fc4efa8-7ee9-4585-b2d3-b0eee603d903)
+
+
+### Package Management
+![Screenshot 2025-07-08 140518](https://github.com/user-attachments/assets/343d7563-7901-4342-9c89-d06e11b7a97d)
+
+### Manage Booking 
+![Screenshot 2025-07-08 141155](https://github.com/user-attachments/assets/4dcf7323-6e4b-40dd-8322-fd199a84e892)
+
+
+### User Booking Page and Package List
+![Screenshot 2025-07-08 140843](https://github.com/user-attachments/assets/661aef00-5fcb-41aa-a42d-1aff54e03c78)
+
+### Tour History
+![Screenshot 2025-07-08 141028](https://github.com/user-attachments/assets/8f894517-ac75-42ff-8cc6-bfd1ac64f6bc)
+
+
 
 ## 📁 Project Structure
 
@@ -89,11 +109,17 @@ A full-featured Tourism Management System built using **PHP** and **MySQL**. It 
 ## 🔐 Default Login Credentials
 
 ### Admin Login
+- **URL:**  http://localhost/tms/admin
 - **Username:** admin
-- **Password:** admin123 *(or as set in DB)*
+- **Password:** Test@123 *(or as set in DB)*
 
-### Test User Login
-- **Email:** user@example.com
-- **Password:** user123 *(or as registered)*
+###  User Login
+- **URL:**  http://localhost/tms/
+- **Email:** test@gmail.com
+- **Password:** Test@123 *(or as registered)*
+
+**Note:** These credentials are for local testing/demo purposes only.
+
+
 
 ---
